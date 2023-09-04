@@ -1,0 +1,525 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Abstractclasseg",
+            "request": "launch",
+            "mainClass": "Abstractclasseg",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "AddMat",
+            "request": "launch",
+            "mainClass": "AddMat",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Addnum",
+            "request": "launch",
+            "mainClass": "Addnum",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Area",
+            "request": "launch",
+            "mainClass": "Area",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Arith",
+            "request": "launch",
+            "mainClass": "Arith",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "ArmstrongNo",
+            "request": "launch",
+            "mainClass": "ArmstrongNo",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEg1",
+            "request": "launch",
+            "mainClass": "ArrayEg1",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListEg4",
+            "request": "launch",
+            "mainClass": "ArrayListEg4",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListExample",
+            "request": "launch",
+            "mainClass": "ArrayListExample",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListReverse",
+            "request": "launch",
+            "mainClass": "ArrayListReverse",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListSort",
+            "request": "launch",
+            "mainClass": "ArrayListSort",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListeg1",
+            "request": "launch",
+            "mainClass": "ArrayListeg1",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListeg2",
+            "request": "launch",
+            "mainClass": "ArrayListeg2",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListeg7",
+            "request": "launch",
+            "mainClass": "ArrayListeg7",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "ArraySearch",
+            "request": "launch",
+            "mainClass": "ArraySearch",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "ArraySort",
+            "request": "launch",
+            "mainClass": "ArraySort",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "ArraySort2",
+            "request": "launch",
+            "mainClass": "ArraySort2",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Arraylisteg5",
+            "request": "launch",
+            "mainClass": "Arraylisteg5",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Arraylisteg6",
+            "request": "launch",
+            "mainClass": "Arraylisteg6",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Bankdemo",
+            "request": "launch",
+            "mainClass": "Bankdemo",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Bufferread",
+            "request": "launch",
+            "mainClass": "Bufferread",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Doloop1to10",
+            "request": "launch",
+            "mainClass": "Doloop1to10",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Emp$Encapsulation",
+            "request": "launch",
+            "mainClass": "Emp$Encapsulation",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "EvenArray",
+            "request": "launch",
+            "mainClass": "EvenArray",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "EvenNumdoloop",
+            "request": "launch",
+            "mainClass": "EvenNumdoloop",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "EvenOdd",
+            "request": "launch",
+            "mainClass": "EvenOdd",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "FactDoloop",
+            "request": "launch",
+            "mainClass": "FactDoloop",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "FactForloop",
+            "request": "launch",
+            "mainClass": "FactForloop",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "FileEg1",
+            "request": "launch",
+            "mainClass": "FileEg1",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "FinallyBlockeg1",
+            "request": "launch",
+            "mainClass": "FinallyBlockeg1",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Forloop1to10",
+            "request": "launch",
+            "mainClass": "Forloop1to10",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Greater",
+            "request": "launch",
+            "mainClass": "Greater",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "HashMapeg1",
+            "request": "launch",
+            "mainClass": "HashMapeg1",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "HashMapeg2",
+            "request": "launch",
+            "mainClass": "HashMapeg2",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "HashSeteg1",
+            "request": "launch",
+            "mainClass": "HashSeteg1",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "HashSeteg2",
+            "request": "launch",
+            "mainClass": "HashSeteg2",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Hashtableg1",
+            "request": "launch",
+            "mainClass": "Hashtableg1",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Hashtableg2",
+            "request": "launch",
+            "mainClass": "Hashtableg2",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "InterfaceEg1",
+            "request": "launch",
+            "mainClass": "InterfaceEg1",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "LargeSmallArray",
+            "request": "launch",
+            "mainClass": "LargeSmallArray",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Leapyear",
+            "request": "launch",
+            "mainClass": "Leapyear",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "MatrixDiagonalSum",
+            "request": "launch",
+            "mainClass": "MatrixDiagonalSum",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "MatrixDiagonalSumMethod2",
+            "request": "launch",
+            "mainClass": "MatrixDiagonalSumMethod2",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Methodoverload",
+            "request": "launch",
+            "mainClass": "Methodoverload",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "MultMat",
+            "request": "launch",
+            "mainClass": "MultMat",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Multiplicationtable",
+            "request": "launch",
+            "mainClass": "Multiplicationtable",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Multithread",
+            "request": "launch",
+            "mainClass": "Multithread",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Nestfor2",
+            "request": "launch",
+            "mainClass": "Nestfor2",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Nestfor3",
+            "request": "launch",
+            "mainClass": "Nestfor3",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Nestfor4",
+            "request": "launch",
+            "mainClass": "Nestfor4",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNum",
+            "request": "launch",
+            "mainClass": "PrimeNum",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNum20",
+            "request": "launch",
+            "mainClass": "PrimeNum20",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Result",
+            "request": "launch",
+            "mainClass": "Result",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "RevNum",
+            "request": "launch",
+            "mainClass": "RevNum",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "RevNumdoloop",
+            "request": "launch",
+            "mainClass": "RevNumdoloop",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Simpleinterest",
+            "request": "launch",
+            "mainClass": "Simpleinterest",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "SingleInheritance",
+            "request": "launch",
+            "mainClass": "SingleInheritance",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Smaller",
+            "request": "launch",
+            "mainClass": "Smaller",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "StringEg",
+            "request": "launch",
+            "mainClass": "StringEg",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "StringEg1",
+            "request": "launch",
+            "mainClass": "StringEg1",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "StringEg2",
+            "request": "launch",
+            "mainClass": "StringEg2",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Studentarr",
+            "request": "launch",
+            "mainClass": "Studentarr",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Sumdigits",
+            "request": "launch",
+            "mainClass": "Sumdigits",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Sumrc",
+            "request": "launch",
+            "mainClass": "Sumrc",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Swcase",
+            "request": "launch",
+            "mainClass": "Swcase",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Throweg1",
+            "request": "launch",
+            "mainClass": "Throweg1",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Treeseteg1",
+            "request": "launch",
+            "mainClass": "Treeseteg1",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Trycatcheg1",
+            "request": "launch",
+            "mainClass": "Trycatcheg1",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "Trycatcheg2",
+            "request": "launch",
+            "mainClass": "Trycatcheg2",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop",
+            "request": "launch",
+            "mainClass": "WhileLoop",
+            "projectName": "vishvjava_ef7e1f7"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoopEven",
+            "request": "launch",
+            "mainClass": "WhileLoopEven",
+            "projectName": "vishvjava_ef7e1f7"
+        }
+    ]
+}
